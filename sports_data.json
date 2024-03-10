@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Who is known as the 'God of cricket? in indain cricket",
+      "Q2. Which Indian cricketer holds the record for the most runs in a single Test innings?",
+      "Q3. In which year did India win its first Cricket World Cup?",
+      "Q4. Who is the highest wicket-taker for India in One Day Internationals (ODIs)?"
+    ],
+    "answer": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "options": [
+  
+      ["Sachin Tendulkar",
+        "Virat Kohli",
+        "Rahul Dravid",
+        "Virender Sehwag"
+      ],
+      ["Sunil Gavaskar",
+        "Virender Sehwag",
+        "Rahul Dravid",
+        "VVS Laxman"
+      ],
+      ["1983",
+        "2003",
+        "2011",
+        "2019"
+      ],
+      ["Anil kumble",
+        "Jasprit Bumrah",
+        "Harbhajan Singh",
+        "Kapil Dev"
+      ]
+    ]
+  }
