@@ -1,0 +1,38 @@
+{
+  "question": [
+    "Q1. Who was the first Emperor of the Maurya Dynasty?",
+    "Q2. Which Mughal emperor built the Taj Mahal?",
+    "Q3. Who was the first President of independent India?",
+    "Q4. When did India gain independence from British rule?"
+    
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["Chandragupta Maurya",
+      "Ashoka",
+      "Bindusara",
+      "Samudragupta"
+    ],
+    ["Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    ["Jawaharlal Nehru",
+      "Sardar Patel",
+      "Rajendra Prasad",
+      "Dr. B.R. Ambedkar"
+    ],
+    ["1942",
+      "1945",
+      "1947",
+      "1950"
+    ]
+  ]
+}
